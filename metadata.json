@@ -1,0 +1,6 @@
+{
+  "name": "Gharar Motion & AI Campaign Studio",
+  "description": "نقشه راه جامع، پرامپت‌های هوش مصنوعی و استودیوی تولید محتوای ۱۰ قسمتی کمپین تفکیک پسماند هوشمند قرار",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
